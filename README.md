@@ -13,3 +13,13 @@ This is a simple C# console program that calculates the total cost of buying app
 
 ## 🧾 Sample Output
 
+```text
+Enter the pieces of apple:
+Enter the price of each apple:
+
+Total Price: (With Decimal)
+
+Enter your Cash:
+
+Change: (With Decimal)
+
